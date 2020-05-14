@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(212, 208, 208);
+}
+.materias {
+    background-color: #ffe8fe;
+    height: 200px;
+}
+
+.dias{
+    background-color: rgb(187, 211, 255);
+}
+.hora  {
+    background-color: rgb(247, 112, 157);
+}
+h1{
+    font-family: sans-serif;
+    font-style: oblique;
+}
+
